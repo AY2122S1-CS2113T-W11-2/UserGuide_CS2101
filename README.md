@@ -154,8 +154,6 @@ Note:
 
 ## <a name="features"></a>Features
 
----
-
 ### <a name="commandNote"></a> Notes about commands
 
 - Items in square brackets are optional.
